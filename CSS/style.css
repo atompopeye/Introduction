@@ -62,10 +62,13 @@ h3{
 {
     margin-top: 30px;
     color: #Eaf6F6;
+    margin-bottom: 0px;
+    font-size: 0.75rem;
 }
 .footer-link
 {
     margin: 30px;
+    
 }
 .top-cloud
 {
@@ -85,6 +88,10 @@ a
     color: #11999e;
     text-decoration: none;
     font-weight: bold;
+}
+a:hover
+{
+    color: #Eaf6F6;
 }
 .skill-row
 {
